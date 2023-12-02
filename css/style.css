@@ -504,7 +504,7 @@ input[type="checkbox"]:checked + label.step__inputs--checks--check > div > div{
         margin-bottom: 30px;
     }
     .stepper__steps--step-three{
-        margin-bottom: 70px;
+        margin-bottom: 40px;
     }
     .summary{
         margin-bottom: 100px;
