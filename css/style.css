@@ -460,7 +460,7 @@ input[type="checkbox"]:checked + label.step__inputs--checks--check > div > div{
     }
     .step__controls{
         position: fixed;
-        bottom: -20vh;
+        bottom: -15vh;
         width: calc(100% - 30px);
         right: -10px;
         width: 107%;
@@ -471,7 +471,7 @@ input[type="checkbox"]:checked + label.step__inputs--checks--check > div > div{
         height: 65vh;
         border-radius: 10px;
         position: absolute;
-        top: 50%;
+        top: 53%;
         left: 50%;
         transform: translate(-50%, -50%);
         width: 90%;
@@ -491,7 +491,7 @@ input[type="checkbox"]:checked + label.step__inputs--checks--check > div > div{
     }
     .step__inputs__cards--card label{
         width: 100%;
-        height: 100px;
+        height: 70px;
         margin-bottom: 10px;
         flex-direction: row;
         justify-content: start;
@@ -513,6 +513,6 @@ input[type="checkbox"]:checked + label.step__inputs--checks--check > div > div{
         height: 99vh;
     }
     .stepper:has(.stepper__steps--step-five.hidden){
-        height: 90vh;
+        height: 85vh;
     }
 }
